@@ -12,7 +12,7 @@ Welcome to the Readme Generator! This nifty tool was created to save you time an
 - [Video-demo](#videos-demo)
 
 ## Installation
-To get started, ensure you have `node.js` installed, then you must also install the `inquirer` package installed. Don't have it yet? No worries! Just type in your terminal:
+To get started, ensure you have `node.js` installed, then you must also install the `inquirer` package. Don't have it yet? No worries! Just type in your terminal:
 ```bash
 npm install inquirer
 ```
