@@ -1,16 +1,22 @@
 
-# readme-generator
+  # Readme generator
 
-## Description
-by inputing data into the terminal and having it out put the data onto a readme file
-## Table of Contents
+  ## Description
+  The purpose of this project was to learn how to refactor coding so that I as a coding student can learn how to make codes more effective, by learning how to refactor I can see the codes a lot clearer. In the real world, companies will have junior coders work on simplifying codes so this project helps prepare Us for real world challenges and goals.
+
+  ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
   * [License](#license)
 
-## Installation
-   you would download the index file and run the code in the intergrated terminal
-## Usage
-   Efficently build a readme in only a couple of inputs
-## License 
-  N/a
+  ## Installation
+  You must npm install inquirer to continue with the code
+  ## Usage
+  making a readme
+  ## Authors
+  Danny Saravia
+
+  ## License 
+  Refer to the repo for licenses. 
+
+  
