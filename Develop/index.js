@@ -6,6 +6,19 @@ const generatePage = require('./utils/generateMarkdown.js');
 const questions = [
     {
         type: 'input',
+        name: 'title',
+        message: 'What is the title of the project you would like to add?',
+        validate: nameInput => {
+            if (nameInput) {
+                return true;
+            } else {
+                console.log("Please enter a title name!");
+                return false; 
+            }
+        } 
+    },
+    {
+        type: 'input',
         name: 'name',
         message: 'What is your Name?',
         validate: nameInput => {
