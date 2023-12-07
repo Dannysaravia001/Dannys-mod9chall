@@ -22,8 +22,9 @@ With this, simply run the coe and answer a few questions about your project. Wat
 
 ## Authors
 
-made by Danny Saravia 
-Github profile: [Github](https://github.com/Dannysaravia001)
+made by Danny Saravia,
+
+Github profile: [Dannysaravia001](https://github.com/Dannysaravia001)
 
 ## Licenses
 No liceneses used
