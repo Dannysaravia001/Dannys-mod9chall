@@ -29,10 +29,10 @@ Github profile: [Dannysaravia001](https://github.com/Dannysaravia001)
 ## Licenses
 No liceneses used
 ## Screenshots
-![Screenshot1](<Screenshot1.png>)
+![Screenshot1](https://github.com/Dannysaravia001/Dannys-mod9chall/assets/143926483/8c842cf6-b7f8-47ce-a586-27867883c732)
 
-![Screenshot2](<Screenshot2.png>)
+![Screenshot2](https://github.com/Dannysaravia001/Dannys-mod9chall/assets/143926483/35f4becd-20ba-48e6-b761-0496855b35b5)
 
-![Screenshot3](<Screenshot3.png>)
+![Screenshot3](https://github.com/Dannysaravia001/Dannys-mod9chall/assets/143926483/e721cad2-ae05-4ec6-b903-f8ab192fa183)
 ## videos-demo
-![video](Video-Demo.webm)
+[Video-Demo.webm](https://github.com/Dannysaravia001/Dannys-mod9chall/assets/143926483/f9284363-9bf3-4c87-a4b4-516607095adb)
